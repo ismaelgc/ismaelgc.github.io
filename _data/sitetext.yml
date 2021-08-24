@@ -15,14 +15,7 @@ es: &DEFAULT_ES
     title: Miguel Verdejo
     text: Próximamente
     button: Síguenos en redes sociales
-    buttonlink: "#portfolio"
-
-
-  portfolio:
-    title: "Síguenos"
-    text: "en redes sociales"
-    section: siguenos
-    closebutton: "Cerrar"
+    buttonlink: "#contact"
 
 
   contact:
@@ -59,13 +52,9 @@ en: &DEFAULT_EN
     title: Miguel Verdejo
     text: Coming soon
     button: Follow us
-    buttonlink: "#portfolio"
+    buttonlink: "#contact"
 
-  portfolio:
-    title: "Follow us"
-    text: "social networks"
-    section: social
-    closebutton: "Close"
+
 
   contact:
     title: "We will be soon at Chiclana, Plaza street"
