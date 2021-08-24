@@ -12,7 +12,7 @@
 # -------
 es: &DEFAULT_ES
   nav:
-    - title: "Contáctenos"
+    - title: "Contacto"
       section: contacto
 es-ES:
   <<: *DEFAULT_ES
