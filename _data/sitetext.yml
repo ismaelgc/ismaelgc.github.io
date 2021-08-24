@@ -13,28 +13,28 @@
 es: &DEFAULT_ES
   header:
     title: Miguel Verdejo
-    text: Proximamente
+    text: Próximamente
     button: Síguenos en redes sociales
-    buttonlink: "#footer"
+    buttonlink: "#portfolio"
 
 
   portfolio:
-    title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portafolio
-    closebutton: "Cerrar Proyecto"
+    title: "Síguenos"
+    text: "en redes sociales"
+    section: siguenos
+    closebutton: "Cerrar"
 
 
   contact:
-    title: "Contáctenos"
-    text: "Lorem ipsum or call 123456789"
+    title: "En breve estaremos en Chiclana, calle de la Plaza"
+    text: "Teléfono 123456789"
     section: contacto
     name: "Nombre*"
-    name-validation: "Por favor ingrese su nombre."
+    name-validation: "Por favor escriba su nombre."
     email: "Correo Electrónico*"
-    email-validation: "Por favor ingrese su correo electrónico."
+    email-validation: "Por favor escriba su correo electrónico."
     phone: "Número Telefónico*"
-    phone-validation: "Por favor ingrese su número telefónico."
+    phone-validation: "Por favor escriba su número telefónico."
     message: "Mensaje*"
     message-validation: "Por favor escriba un mensaje."
     subject: "Envío del formulario de contacto"
@@ -58,18 +58,18 @@ en: &DEFAULT_EN
   header:
     title: Miguel Verdejo
     text: Coming soon
-    button: Contact us
-    buttonlink: "#contact"
+    button: Follow us
+    buttonlink: "#portfolio"
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
+    title: "Follow us"
+    text: "social networks"
+    section: social
+    closebutton: "Close"
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "We will be soon at Chiclana, Plaza street"
+    text: "Phone n. 123456789"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
