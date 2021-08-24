@@ -15,7 +15,7 @@ es: &DEFAULT_ES
     title: Miguel Verdejo
     text: Próximamente
     button: Síguenos en redes sociales
-    buttonlink: "#contact"
+    buttonlink: "#contacto"
 
 
   contact:
